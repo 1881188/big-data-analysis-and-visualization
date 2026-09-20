@@ -1,0 +1,35 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary Office lock files
+~$*.xlsm
+~$*.xlsx
+~$*.xls
+~$*.docx
+~$*.pptx
+
+# Credentials and local-only configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local source inspection dump (not a runtime dependency)
+9.3第二章图复现/工作表数据.json

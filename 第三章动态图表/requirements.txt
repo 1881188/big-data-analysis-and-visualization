@@ -1,0 +1,6 @@
+# Existing tested environment; installation was not performed.
+matplotlib==3.10.1
+openpyxl==3.1.5
+Pillow==11.1.0
+numpy>=1.26
+# tkinter belongs to the Python distribution, not pip.

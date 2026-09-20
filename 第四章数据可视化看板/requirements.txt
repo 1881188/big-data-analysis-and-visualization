@@ -1,0 +1,6 @@
+# Versions already available on the user's machine. No installation performed.
+matplotlib==3.10.1
+numpy==2.2.3
+openpyxl==3.1.5
+Pillow==11.1.0
+# tkinter is included with this Python installation.
