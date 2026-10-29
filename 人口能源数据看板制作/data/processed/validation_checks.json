@@ -1,0 +1,4252 @@
+[
+  {
+    "check": "原始文件哈希:data/raw/catalog_population.json",
+    "passed": true,
+    "detail": "文件与下载时SHA-256一致"
+  },
+  {
+    "check": "原始文件哈希:data/raw/catalog_energy.json",
+    "passed": true,
+    "detail": "文件与下载时SHA-256一致"
+  },
+  {
+    "check": "原始文件哈希:data/raw/population_total_indicators.json",
+    "passed": true,
+    "detail": "文件与下载时SHA-256一致"
+  },
+  {
+    "check": "原始文件哈希:data/raw/population_total_data.json",
+    "passed": true,
+    "detail": "文件与下载时SHA-256一致"
+  },
+  {
+    "check": "原始文件哈希:data/raw/population_rates_indicators.json",
+    "passed": true,
+    "detail": "文件与下载时SHA-256一致"
+  },
+  {
+    "check": "原始文件哈希:data/raw/population_rates_data.json",
+    "passed": true,
+    "detail": "文件与下载时SHA-256一致"
+  },
+  {
+    "check": "原始文件哈希:data/raw/population_age_indicators.json",
+    "passed": true,
+    "detail": "文件与下载时SHA-256一致"
+  },
+  {
+    "check": "原始文件哈希:data/raw/population_age_data.json",
+    "passed": true,
+    "detail": "文件与下载时SHA-256一致"
+  },
+  {
+    "check": "原始文件哈希:data/raw/energy_total_indicators.json",
+    "passed": true,
+    "detail": "文件与下载时SHA-256一致"
+  },
+  {
+    "check": "原始文件哈希:data/raw/energy_total_data.json",
+    "passed": true,
+    "detail": "文件与下载时SHA-256一致"
+  },
+  {
+    "check": "原始文件哈希:data/raw/energy_elasticity_indicators.json",
+    "passed": true,
+    "detail": "文件与下载时SHA-256一致"
+  },
+  {
+    "check": "原始文件哈希:data/raw/energy_elasticity_data.json",
+    "passed": true,
+    "detail": "文件与下载时SHA-256一致"
+  },
+  {
+    "check": "原始文件哈希:data/raw/energy_living_per_capita_indicators.json",
+    "passed": true,
+    "detail": "文件与下载时SHA-256一致"
+  },
+  {
+    "check": "原始文件哈希:data/raw/energy_living_per_capita_data.json",
+    "passed": true,
+    "detail": "文件与下载时SHA-256一致"
+  },
+  {
+    "check": "年份唯一:energy_elasticity",
+    "passed": true,
+    "detail": "[2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]"
+  },
+  {
+    "check": "单元格唯一:extra_08ae61c4:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_08ae61c4:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_08ae61c4:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_08ae61c4:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_08ae61c4:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_08ae61c4:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_08ae61c4:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_08ae61c4:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_08ae61c4:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_08ae61c4:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_08ae61c4:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_08ae61c4:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_08ae61c4:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_08ae61c4:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_08ae61c4:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_08ae61c4:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_08ae61c4:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_08ae61c4:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b72363d6:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b72363d6:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b72363d6:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b72363d6:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b72363d6:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b72363d6:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b72363d6:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b72363d6:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b72363d6:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b72363d6:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b72363d6:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b72363d6:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b72363d6:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b72363d6:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b72363d6:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b72363d6:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b72363d6:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b72363d6:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_314b5436:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_314b5436:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_314b5436:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_314b5436:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_314b5436:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_314b5436:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_314b5436:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_314b5436:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_314b5436:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_314b5436:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_314b5436:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_314b5436:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_314b5436:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_314b5436:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_314b5436:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_314b5436:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_314b5436:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_314b5436:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_7d4847a4:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_7d4847a4:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_7d4847a4:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_7d4847a4:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_7d4847a4:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_7d4847a4:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_7d4847a4:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_7d4847a4:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_7d4847a4:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_7d4847a4:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_7d4847a4:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_7d4847a4:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_7d4847a4:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_7d4847a4:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_7d4847a4:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_7d4847a4:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_7d4847a4:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_7d4847a4:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "年份唯一:energy_living_per_capita",
+    "passed": true,
+    "detail": "[2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]"
+  },
+  {
+    "check": "单元格唯一:living_energy_per_capita:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_energy_per_capita:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_energy_per_capita:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_energy_per_capita:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_energy_per_capita:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_energy_per_capita:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_energy_per_capita:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_energy_per_capita:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_energy_per_capita:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_energy_per_capita:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_energy_per_capita:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_energy_per_capita:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_energy_per_capita:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_energy_per_capita:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_energy_per_capita:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_energy_per_capita:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_energy_per_capita:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_energy_per_capita:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_9fff05ca:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_9fff05ca:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_9fff05ca:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_9fff05ca:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_9fff05ca:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_9fff05ca:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_9fff05ca:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_9fff05ca:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_9fff05ca:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_9fff05ca:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_9fff05ca:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_9fff05ca:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_9fff05ca:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_9fff05ca:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_9fff05ca:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_9fff05ca:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_9fff05ca:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_9fff05ca:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_electricity_per_capita:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_electricity_per_capita:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_electricity_per_capita:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_electricity_per_capita:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_electricity_per_capita:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_electricity_per_capita:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_electricity_per_capita:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_electricity_per_capita:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_electricity_per_capita:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_electricity_per_capita:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_electricity_per_capita:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_electricity_per_capita:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_electricity_per_capita:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_electricity_per_capita:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_electricity_per_capita:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_electricity_per_capita:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_electricity_per_capita:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:living_electricity_per_capita:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_f101af2b:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_f101af2b:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_f101af2b:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_f101af2b:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_f101af2b:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_f101af2b:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_f101af2b:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_f101af2b:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_f101af2b:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_f101af2b:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_f101af2b:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_f101af2b:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_f101af2b:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_f101af2b:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_f101af2b:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_f101af2b:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_f101af2b:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_f101af2b:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b2b941e7:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b2b941e7:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b2b941e7:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b2b941e7:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b2b941e7:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b2b941e7:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b2b941e7:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b2b941e7:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b2b941e7:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b2b941e7:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b2b941e7:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b2b941e7:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b2b941e7:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b2b941e7:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b2b941e7:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b2b941e7:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b2b941e7:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b2b941e7:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_ac147c09:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_ac147c09:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_ac147c09:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_ac147c09:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_ac147c09:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_ac147c09:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_ac147c09:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_ac147c09:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_ac147c09:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_ac147c09:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_ac147c09:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_ac147c09:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_ac147c09:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_ac147c09:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_ac147c09:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_ac147c09:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_ac147c09:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_ac147c09:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_3ffdee03:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_3ffdee03:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_3ffdee03:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_3ffdee03:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_3ffdee03:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_3ffdee03:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_3ffdee03:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_3ffdee03:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_3ffdee03:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_3ffdee03:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_3ffdee03:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_3ffdee03:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_3ffdee03:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_3ffdee03:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_3ffdee03:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_3ffdee03:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_3ffdee03:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_3ffdee03:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "年份唯一:energy_total",
+    "passed": true,
+    "detail": "[2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]"
+  },
+  {
+    "check": "单元格唯一:energy_total:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:energy_total:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:energy_total:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:energy_total:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:energy_total:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:energy_total:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:energy_total:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:energy_total:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:energy_total:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:energy_total:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:energy_total:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:energy_total:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:energy_total:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:energy_total:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:energy_total:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:energy_total:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:energy_total:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:energy_total:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_coal:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_coal:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_coal:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_coal:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_coal:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_coal:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_coal:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_coal:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_coal:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_coal:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_coal:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_coal:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_coal:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_coal:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_coal:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_coal:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_coal:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_coal:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_oil:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_oil:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_oil:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_oil:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_oil:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_oil:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_oil:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_oil:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_oil:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_oil:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_oil:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_oil:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_oil:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_oil:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_oil:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_oil:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_oil:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_oil:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_gas:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_gas:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_gas:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_gas:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_gas:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_gas:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_gas:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_gas:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_gas:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_gas:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_gas:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_gas:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_gas:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_gas:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_gas:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_gas:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_gas:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_gas:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_primary_electricity_other:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_primary_electricity_other:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_primary_electricity_other:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_primary_electricity_other:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_primary_electricity_other:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_primary_electricity_other:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_primary_electricity_other:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_primary_electricity_other:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_primary_electricity_other:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_primary_electricity_other:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_primary_electricity_other:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_primary_electricity_other:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_primary_electricity_other:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_primary_electricity_other:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_primary_electricity_other:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_primary_electricity_other:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_primary_electricity_other:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:share_primary_electricity_other:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b50c29bb:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b50c29bb:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b50c29bb:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b50c29bb:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b50c29bb:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b50c29bb:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b50c29bb:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b50c29bb:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b50c29bb:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b50c29bb:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b50c29bb:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b50c29bb:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b50c29bb:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b50c29bb:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b50c29bb:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b50c29bb:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b50c29bb:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_b50c29bb:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_892f8391:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_892f8391:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_892f8391:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_892f8391:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_892f8391:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_892f8391:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_892f8391:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_892f8391:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_892f8391:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_892f8391:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_892f8391:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_892f8391:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_892f8391:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_892f8391:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_892f8391:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_892f8391:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_892f8391:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_892f8391:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_55352a04:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_55352a04:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_55352a04:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_55352a04:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_55352a04:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_55352a04:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_55352a04:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_55352a04:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_55352a04:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_55352a04:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_55352a04:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_55352a04:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_55352a04:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_55352a04:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_55352a04:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_55352a04:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_55352a04:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_55352a04:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_27e686ed:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_27e686ed:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_27e686ed:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_27e686ed:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_27e686ed:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_27e686ed:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_27e686ed:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_27e686ed:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_27e686ed:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_27e686ed:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_27e686ed:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_27e686ed:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_27e686ed:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_27e686ed:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_27e686ed:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_27e686ed:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_27e686ed:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_27e686ed:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9e1bf4f:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9e1bf4f:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9e1bf4f:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9e1bf4f:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9e1bf4f:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9e1bf4f:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9e1bf4f:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9e1bf4f:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9e1bf4f:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9e1bf4f:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9e1bf4f:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9e1bf4f:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9e1bf4f:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9e1bf4f:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9e1bf4f:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9e1bf4f:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9e1bf4f:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9e1bf4f:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_887326ed:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_887326ed:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_887326ed:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_887326ed:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_887326ed:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_887326ed:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_887326ed:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_887326ed:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_887326ed:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_887326ed:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_887326ed:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_887326ed:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_887326ed:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_887326ed:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_887326ed:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_887326ed:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_887326ed:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_887326ed:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9713795:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9713795:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9713795:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9713795:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9713795:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9713795:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9713795:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9713795:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9713795:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9713795:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9713795:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9713795:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9713795:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9713795:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9713795:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9713795:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9713795:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_c9713795:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_5b74de1b:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_5b74de1b:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_5b74de1b:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_5b74de1b:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_5b74de1b:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_5b74de1b:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_5b74de1b:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_5b74de1b:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_5b74de1b:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_5b74de1b:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_5b74de1b:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_5b74de1b:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_5b74de1b:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_5b74de1b:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_5b74de1b:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_5b74de1b:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_5b74de1b:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_5b74de1b:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_4215e0c1:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_4215e0c1:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_4215e0c1:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_4215e0c1:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_4215e0c1:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_4215e0c1:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_4215e0c1:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_4215e0c1:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_4215e0c1:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_4215e0c1:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_4215e0c1:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_4215e0c1:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_4215e0c1:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_4215e0c1:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_4215e0c1:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_4215e0c1:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_4215e0c1:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:extra_4215e0c1:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "年份唯一:population_age",
+    "passed": true,
+    "detail": "[2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]"
+  },
+  {
+    "check": "单元格唯一:population_age_total:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_total:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_total:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_total:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_total:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_total:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_total:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_total:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_total:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_total:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_total:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_total:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_total:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_total:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_total:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_total:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_total:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_total:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_0_14:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_0_14:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_0_14:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_0_14:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_0_14:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_0_14:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_0_14:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_0_14:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_0_14:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_0_14:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_0_14:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_0_14:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_0_14:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_0_14:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_0_14:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_0_14:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_0_14:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_0_14:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_15_64:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_15_64:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_15_64:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_15_64:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_15_64:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_15_64:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_15_64:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_15_64:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_15_64:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_15_64:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_15_64:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_15_64:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_15_64:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_15_64:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_15_64:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_15_64:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_15_64:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_15_64:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_65_plus:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_65_plus:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_65_plus:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_65_plus:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_65_plus:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_65_plus:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_65_plus:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_65_plus:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_65_plus:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_65_plus:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_65_plus:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_65_plus:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_65_plus:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_65_plus:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_65_plus:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_65_plus:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_65_plus:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_age_65_plus:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_total:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_total:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_total:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_total:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_total:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_total:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_total:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_total:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_total:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_total:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_total:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_total:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_total:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_total:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_total:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_total:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_total:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_total:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_child:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_child:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_child:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_child:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_child:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_child:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_child:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_child:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_child:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_child:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_child:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_child:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_child:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_child:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_child:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_child:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_child:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_child:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_old:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_old:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_old:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_old:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_old:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_old:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_old:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_old:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_old:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_old:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_old:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_old:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_old:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_old:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_old:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_old:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_old:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:dependency_old:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "年份唯一:population_rates",
+    "passed": true,
+    "detail": "[2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]"
+  },
+  {
+    "check": "单元格唯一:birth_rate:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:birth_rate:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:birth_rate:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:birth_rate:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:birth_rate:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:birth_rate:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:birth_rate:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:birth_rate:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:birth_rate:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:birth_rate:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:birth_rate:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:birth_rate:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:birth_rate:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:birth_rate:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:birth_rate:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:birth_rate:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:birth_rate:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:birth_rate:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:death_rate:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:death_rate:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:death_rate:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:death_rate:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:death_rate:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:death_rate:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:death_rate:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:death_rate:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:death_rate:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:death_rate:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:death_rate:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:death_rate:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:death_rate:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:death_rate:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:death_rate:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:death_rate:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:death_rate:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:death_rate:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:natural_growth_rate:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:natural_growth_rate:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:natural_growth_rate:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:natural_growth_rate:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:natural_growth_rate:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:natural_growth_rate:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:natural_growth_rate:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:natural_growth_rate:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:natural_growth_rate:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:natural_growth_rate:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:natural_growth_rate:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:natural_growth_rate:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:natural_growth_rate:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:natural_growth_rate:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:natural_growth_rate:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:natural_growth_rate:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:natural_growth_rate:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:natural_growth_rate:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "年份唯一:population_total",
+    "passed": true,
+    "detail": "[2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]"
+  },
+  {
+    "check": "单元格唯一:population_total:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_total:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_total:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_total:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_total:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_total:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_total:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_total:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_total:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_total:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_total:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_total:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_total:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_total:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_total:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_total:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_total:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_total:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_male:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_male:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_male:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_male:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_male:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_male:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_male:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_male:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_male:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_male:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_male:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_male:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_male:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_male:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_male:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_male:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_male:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_male:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_female:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_female:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_female:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_female:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_female:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_female:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_female:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_female:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_female:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_female:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_female:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_female:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_female:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_female:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_female:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_female:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_female:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_female:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_urban:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_urban:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_urban:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_urban:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_urban:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_urban:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_urban:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_urban:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_urban:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_urban:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_urban:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_urban:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_urban:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_urban:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_urban:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_urban:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_urban:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_urban:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_rural:2008",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_rural:2009",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_rural:2010",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_rural:2011",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_rural:2012",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_rural:2013",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_rural:2014",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_rural:2015",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_rural:2016",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_rural:2017",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_rural:2018",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_rural:2019",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_rural:2020",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_rural:2021",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_rural:2022",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_rural:2023",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_rural:2024",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "单元格唯一:population_rural:2025",
+    "passed": true,
+    "detail": "按年份及官方指标ID定位"
+  },
+  {
+    "check": "核心15年连续完整",
+    "passed": true,
+    "detail": "[2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]"
+  },
+  {
+    "check": "2008辅助年完整",
+    "passed": true,
+    "detail": "用于2009年同比"
+  },
+  {
+    "check": "城乡合计:2008",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "性别合计:2008",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "年龄表总人口核对:2008",
+    "passed": true,
+    "detail": "与总人口表核对"
+  },
+  {
+    "check": "年龄合计舍入容差:2008",
+    "passed": true,
+    "detail": "0万人"
+  },
+  {
+    "check": "出生减死亡核对:2008",
+    "passed": true,
+    "detail": "0.00‰"
+  },
+  {
+    "check": "能源占比合计容差:2008",
+    "passed": true,
+    "detail": "100.0%"
+  },
+  {
+    "check": "城乡合计:2009",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "性别合计:2009",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "年龄表总人口核对:2009",
+    "passed": true,
+    "detail": "与总人口表核对"
+  },
+  {
+    "check": "年龄合计舍入容差:2009",
+    "passed": true,
+    "detail": "0万人"
+  },
+  {
+    "check": "出生减死亡核对:2009",
+    "passed": true,
+    "detail": "0.00‰"
+  },
+  {
+    "check": "能源占比合计容差:2009",
+    "passed": true,
+    "detail": "100.0%"
+  },
+  {
+    "check": "城乡合计:2010",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "性别合计:2010",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "年龄表总人口核对:2010",
+    "passed": true,
+    "detail": "与总人口表核对"
+  },
+  {
+    "check": "年龄合计舍入容差:2010",
+    "passed": true,
+    "detail": "0万人"
+  },
+  {
+    "check": "出生减死亡核对:2010",
+    "passed": true,
+    "detail": "0.00‰"
+  },
+  {
+    "check": "能源占比合计容差:2010",
+    "passed": true,
+    "detail": "100.0%"
+  },
+  {
+    "check": "城乡合计:2011",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "性别合计:2011",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "年龄表总人口核对:2011",
+    "passed": true,
+    "detail": "与总人口表核对"
+  },
+  {
+    "check": "年龄合计舍入容差:2011",
+    "passed": true,
+    "detail": "0万人"
+  },
+  {
+    "check": "出生减死亡核对:2011",
+    "passed": true,
+    "detail": "0.00‰"
+  },
+  {
+    "check": "能源占比合计容差:2011",
+    "passed": true,
+    "detail": "100.0%"
+  },
+  {
+    "check": "城乡合计:2012",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "性别合计:2012",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "年龄表总人口核对:2012",
+    "passed": true,
+    "detail": "与总人口表核对"
+  },
+  {
+    "check": "年龄合计舍入容差:2012",
+    "passed": true,
+    "detail": "0万人"
+  },
+  {
+    "check": "出生减死亡核对:2012",
+    "passed": true,
+    "detail": "0.01‰"
+  },
+  {
+    "check": "能源占比合计容差:2012",
+    "passed": true,
+    "detail": "100.0%"
+  },
+  {
+    "check": "城乡合计:2013",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "性别合计:2013",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "年龄表总人口核对:2013",
+    "passed": true,
+    "detail": "与总人口表核对"
+  },
+  {
+    "check": "年龄合计舍入容差:2013",
+    "passed": true,
+    "detail": "0万人"
+  },
+  {
+    "check": "出生减死亡核对:2013",
+    "passed": true,
+    "detail": "0.00‰"
+  },
+  {
+    "check": "能源占比合计容差:2013",
+    "passed": true,
+    "detail": "100.0%"
+  },
+  {
+    "check": "城乡合计:2014",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "性别合计:2014",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "年龄表总人口核对:2014",
+    "passed": true,
+    "detail": "与总人口表核对"
+  },
+  {
+    "check": "年龄合计舍入容差:2014",
+    "passed": true,
+    "detail": "0万人"
+  },
+  {
+    "check": "出生减死亡核对:2014",
+    "passed": true,
+    "detail": "0.00‰"
+  },
+  {
+    "check": "能源占比合计容差:2014",
+    "passed": true,
+    "detail": "100.0%"
+  },
+  {
+    "check": "城乡合计:2015",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "性别合计:2015",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "年龄表总人口核对:2015",
+    "passed": true,
+    "detail": "与总人口表核对"
+  },
+  {
+    "check": "年龄合计舍入容差:2015",
+    "passed": true,
+    "detail": "0万人"
+  },
+  {
+    "check": "出生减死亡核对:2015",
+    "passed": true,
+    "detail": "-0.01‰"
+  },
+  {
+    "check": "能源占比合计容差:2015",
+    "passed": true,
+    "detail": "100.0%"
+  },
+  {
+    "check": "城乡合计:2016",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "性别合计:2016",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "年龄表总人口核对:2016",
+    "passed": true,
+    "detail": "与总人口表核对"
+  },
+  {
+    "check": "年龄合计舍入容差:2016",
+    "passed": true,
+    "detail": "0万人"
+  },
+  {
+    "check": "出生减死亡核对:2016",
+    "passed": true,
+    "detail": "0.00‰"
+  },
+  {
+    "check": "能源占比合计容差:2016",
+    "passed": true,
+    "detail": "100.0%"
+  },
+  {
+    "check": "城乡合计:2017",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "性别合计:2017",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "年龄表总人口核对:2017",
+    "passed": true,
+    "detail": "与总人口表核对"
+  },
+  {
+    "check": "年龄合计舍入容差:2017",
+    "passed": true,
+    "detail": "0万人"
+  },
+  {
+    "check": "出生减死亡核对:2017",
+    "passed": true,
+    "detail": "0.00‰"
+  },
+  {
+    "check": "能源占比合计容差:2017",
+    "passed": true,
+    "detail": "100.0%"
+  },
+  {
+    "check": "城乡合计:2018",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "性别合计:2018",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "年龄表总人口核对:2018",
+    "passed": true,
+    "detail": "与总人口表核对"
+  },
+  {
+    "check": "年龄合计舍入容差:2018",
+    "passed": true,
+    "detail": "-1万人"
+  },
+  {
+    "check": "出生减死亡核对:2018",
+    "passed": true,
+    "detail": "0.00‰"
+  },
+  {
+    "check": "能源占比合计容差:2018",
+    "passed": true,
+    "detail": "100.0%"
+  },
+  {
+    "check": "城乡合计:2019",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "性别合计:2019",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "年龄表总人口核对:2019",
+    "passed": true,
+    "detail": "与总人口表核对"
+  },
+  {
+    "check": "年龄合计舍入容差:2019",
+    "passed": true,
+    "detail": "0万人"
+  },
+  {
+    "check": "出生减死亡核对:2019",
+    "passed": true,
+    "detail": "0.00‰"
+  },
+  {
+    "check": "能源占比合计容差:2019",
+    "passed": true,
+    "detail": "99.9%"
+  },
+  {
+    "check": "城乡合计:2020",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "性别合计:2020",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "年龄表总人口核对:2020",
+    "passed": true,
+    "detail": "与总人口表核对"
+  },
+  {
+    "check": "年龄合计舍入容差:2020",
+    "passed": true,
+    "detail": "0万人"
+  },
+  {
+    "check": "出生减死亡核对:2020",
+    "passed": true,
+    "detail": "0.00‰"
+  },
+  {
+    "check": "能源占比合计容差:2020",
+    "passed": true,
+    "detail": "100.0%"
+  },
+  {
+    "check": "城乡合计:2021",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "性别合计:2021",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "年龄表总人口核对:2021",
+    "passed": true,
+    "detail": "与总人口表核对"
+  },
+  {
+    "check": "年龄合计舍入容差:2021",
+    "passed": true,
+    "detail": "0万人"
+  },
+  {
+    "check": "出生减死亡核对:2021",
+    "passed": true,
+    "detail": "0.00‰"
+  },
+  {
+    "check": "能源占比合计容差:2021",
+    "passed": true,
+    "detail": "100.0%"
+  },
+  {
+    "check": "城乡合计:2022",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "性别合计:2022",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "年龄表总人口核对:2022",
+    "passed": true,
+    "detail": "与总人口表核对"
+  },
+  {
+    "check": "年龄合计舍入容差:2022",
+    "passed": true,
+    "detail": "0万人"
+  },
+  {
+    "check": "出生减死亡核对:2022",
+    "passed": true,
+    "detail": "0.00‰"
+  },
+  {
+    "check": "能源占比合计容差:2022",
+    "passed": true,
+    "detail": "100.0%"
+  },
+  {
+    "check": "城乡合计:2023",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "性别合计:2023",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "年龄表总人口核对:2023",
+    "passed": true,
+    "detail": "与总人口表核对"
+  },
+  {
+    "check": "年龄合计舍入容差:2023",
+    "passed": true,
+    "detail": "0万人"
+  },
+  {
+    "check": "出生减死亡核对:2023",
+    "passed": true,
+    "detail": "0.00‰"
+  },
+  {
+    "check": "能源占比合计容差:2023",
+    "passed": true,
+    "detail": "100.0%"
+  },
+  {
+    "check": "城乡合计:2024",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "性别合计:2024",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "年龄表总人口核对:2024",
+    "passed": true,
+    "detail": "与总人口表核对"
+  },
+  {
+    "check": "年龄合计舍入容差:2024",
+    "passed": true,
+    "detail": "0万人"
+  },
+  {
+    "check": "出生减死亡核对:2024",
+    "passed": true,
+    "detail": "0.00‰"
+  },
+  {
+    "check": "能源占比合计容差:2024",
+    "passed": true,
+    "detail": "100.0%"
+  },
+  {
+    "check": "城乡合计:2025",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "性别合计:2025",
+    "passed": true,
+    "detail": "万人"
+  },
+  {
+    "check": "年龄表总人口核对:2025",
+    "passed": true,
+    "detail": "与总人口表核对"
+  },
+  {
+    "check": "年龄合计舍入容差:2025",
+    "passed": true,
+    "detail": "0万人"
+  },
+  {
+    "check": "出生减死亡核对:2025",
+    "passed": true,
+    "detail": "0.00‰"
+  },
+  {
+    "check": "能源占比合计容差:2025",
+    "passed": true,
+    "detail": "100.0%"
+  }
+]

@@ -1,0 +1,5 @@
+# Preserve snapshot and vendored-resource bytes across Git checkouts.
+# Source manifests and validation records use SHA-256 of the original files.
+data/raw/** -text
+data/processed/** -text
+web/vendor/** -text

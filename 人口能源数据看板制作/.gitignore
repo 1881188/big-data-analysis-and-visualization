@@ -1,0 +1,6 @@
+node_modules/
+__pycache__/
+*.pyc
+*.xlsx.inspect.ndjson
+outputs/dashboard/browser-profile/
+outputs/dashboard/exports/

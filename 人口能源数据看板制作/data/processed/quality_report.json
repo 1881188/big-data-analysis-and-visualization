@@ -1,0 +1,87 @@
+{
+  "display_years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "previous_year": 2008,
+  "raw_years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "raw_indicator_count": 40,
+  "raw_observations": 720,
+  "missing_observations": 49,
+  "core_fields": [
+    "population_total",
+    "population_urban",
+    "population_rural",
+    "birth_rate",
+    "death_rate",
+    "natural_growth_rate",
+    "population_age_0_14",
+    "population_age_15_64",
+    "population_age_65_plus",
+    "energy_total",
+    "share_coal",
+    "share_oil",
+    "share_gas",
+    "share_primary_electricity_other",
+    "living_energy_per_capita"
+  ],
+  "core_missing_in_display": 0,
+  "checks_total": 850,
+  "checks_failed": [],
+  "rounding_warnings": [
+    {
+      "year": 2018,
+      "issue": "年龄分组加总与总人口不等",
+      "difference": -1,
+      "unit": "万人",
+      "action": "保留原值，不改写分组；占比不强制归一"
+    },
+    {
+      "year": 2019,
+      "issue": "能源占比合计不等于100%",
+      "difference": -0.1,
+      "unit": "百分点",
+      "action": "保留官方占比；瀑布图单列舍入差额"
+    }
+  ],
+  "limitations": [
+    "查询库人均生活用能2024、2025为空；主屏使用2009—2023完整窗口。",
+    "能源官方可比增速未从本次指标取得；提供当前序列自算增速并明确命名。",
+    "一次电力及其他能源沿用官方类别，不直接改名为清洁能源或非化石能源。",
+    "结构折标量由总量和占比推算；实物量另存原始长表，不混合相加。",
+    "2011—2019人口年龄数据已按2020人口普查修订，见原始指标注释。",
+    "若能源口径存在未回溯修订的断点，自算跨年变化不能解释为实际增速；制作看板时保留提示。"
+  ]
+}
